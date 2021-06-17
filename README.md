@@ -1,0 +1,5 @@
+<p>Personal Slot Machine that players can craft when given the correct permissions. Or can be used in a GUIShop to sell to players.<br />Works just like server placed slot machines, Can be placed by players, picked up or destroyed. Do note if players place it in a area with no room to dismount to try glitch though walls the server will killed them on invalid dismount.</p>
+<p>Permissions:<br />PersonalSlotMachine.use -- Permission required to craft<br />Admin -- Permission required to give to player via console command.</p>
+<p>Commands:<br />/slotmachine.craft (Chat command requires premission)<br />slotmachine.give playername/id (Console command to give to player)</p>
+<p>Info:<br />Slot Machine can be picked up by hitting with a hammer.<br />It will be destoryed by single explosive, loss of foundation, 20X melee hits, 10X buckshot hits, 7X arrow hits, 5X pistol hits, 5X rifle hits.</p>
+<p><img src="https://github.com/bmgjet/PersonalSlotMachine/raw/main/slotmachineiconsmall.png" alt="" width="128" height="128" /></p>
